@@ -1,3 +1,6 @@
 ---
 - debug:
     msg: "Hello from your external use case!"
+
+- include_role:
+    name: k3s
