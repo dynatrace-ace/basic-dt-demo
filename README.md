@@ -22,3 +22,7 @@ Using a realistic environment you will run through similar scenarios to the ones
 ![](./roles/my-use-case/files/dt-demo/lab-guide/assets/images/trace.png)
 
 > Note: there are not exactly the same use cases as in the documentation, but you can see the instructions below
+
+## Instructions
+
+Use case instructions [here](../basic-dt-demo/roles/my-use-case/files/dt-demo/lab-guide/content/)
