@@ -9,7 +9,3 @@ Coming soon...
 ### Visualize and analyze security findings
 
 Coming soon...
-
-## Well Done!
-
-Go back to your ACE-Box [management page](../01_get-started/4_manage.md)
